@@ -6,9 +6,9 @@ Original sea level contribution data was sourced from:
 
 AR6 (IPCC 2021) files:
 These are available at https://zenodo.org/record/6382554#.Y5iTauzP2YJ
-This was the original source for the DeConto et al. (2021) and Levermann et al. (2020) data for the AIS, for one of the Greenland data sets, and for the glaciers, land water storage and thermal expansion data sets.
+This was the original source for the DeConto et al. (2021) and Levermann et al. (2020) data for the AIS, for one of the Greenland data sets, and for the glaciers, land water storage and thermal expansion data sets. The Greenland and glacier files are in the open access data folder in this repository.
 
-Lowry et al. (2021): https://osf.io/aupnk/ 
+Lowry et al. (2021): https://osf.io/aupnk/ Files of this data are in the open access data folder in this repository.
 
 Bulthuis et al. (2019): personal correspondence, 19/11/21
 
